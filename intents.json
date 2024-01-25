@@ -1,0 +1,442 @@
+{"intents": [
+       {"tag": "greeting",
+       "patterns": [
+              "Xin chào ad", 
+              "Chào admin",
+              "Ad ơi",
+              "hi",
+              "hello",
+              "có ai ở đây không ạ",
+              "bắt đầu",
+              "Hey!",
+              "ad ơi em muốn hỏi cái này với ạ",
+              "ai có thể giúp em không",
+              "dạ cho em hỏi",
+              "cho hỏi có ai chat được bây giờ không",
+              "em cần một chút sự hỗ trợ",
+              "làm ơn giúp em",
+              "em đang cần một ít thông tin",
+              "chào ad, em có một câu hỏi",
+              "em có một vấn đề cần được giải thích"],
+         "responses": [
+              "Chào bạn, rất vui được tư vấn cho bạn. Bạn để lại thắc mắc của mình ở đây để mình giải đáp nhé"]
+       },
+       {"tag": "goodbye",
+       "patterns": [
+              "Bye",
+              "goodbye",
+              "good bye",
+              "Tạm biệt", 
+              "Bai",
+              "pp","hẹn gặp lại",
+              "bái bai ad nha",
+              "cảm ơn và chào tạm biệt",
+              "chúc một ngày tốt lành và tạm biệt",
+              "em sẽ quay lại sau",
+              "em sẽ tìm đến ad sau",
+              "em sẽ quay lại nếu có thêm câu hỏi"],
+       "responses": [
+              "Chúc bạn ngày mới tốt đẹp",
+              "Hẹn bạn một ngày gần nhất ở Duy Tân University", 
+              "Hy vọng bạn đã giải đáp được thắc mắc của mình"]
+       },
+       {"tag": "thanks",
+       "patterns": [
+              "Cảm ơn ", 
+              "thanks", 
+              "tks", 
+              "thank you", 
+              "tks ad","cảm ơn đã giúp đỡ em"],
+       "responses": [
+              "Ad rất vui được giúp bạn", 
+              "Bạn hài lòng là ad vui rồi"]
+       },
+       {"tag": "not_understand",
+       "patterns": [
+              "khả năng trúng tuyển có cao không",
+              "thời gian học ở trường như thế nào",
+              "điểm khác nhau giữa chương trình thường và chương trình quốc tế",
+              "đi học muộn có bị gì không",
+              "làm sao để học giỏi",
+              "muốn qua môn phải làm gì",
+              "Ban cán sự lớp có được ưu tiên gì không",
+              "có nộp học phí muộn được không",
+              "biết tôi là ai không",
+              "bạn ăn cơm chưa",
+              "ngày mai sẽ có mưa không"],
+       "responses":[
+              "Xin lỗi, mình không hiểu. Bạn nói cách khác dễ hiểu hơn được không?",
+              "Mình không hiểu ý bạn lắm",
+              "Huhu xin lỗi mình không hiểu ý bạn lắm",
+              "Xin lỗi bạn, mình không hiểu ý bạn lắm nè ^^",
+              "Bạn vui lòng trình bày kĩ hơn những thắc mắc của bạn  để ad phản hồi lại với thông tin chính xác và hiệu quả nhất nhé"]
+       },
+       {"tag": "admission_process",
+       "patterns": [
+              "Làm thế nào để đăng ký vào trường?",
+              "Tôi cần thông tin về quy trình nhập học",
+              "Thủ tục nhập học tại đại học Duy Tân ra sao?",
+              "Hướng dẫn cách đăng kí vào trường",
+              "Em muốn đăng kí vào trường thì phải làm những gì ạ",
+              "Cần chuẩn bị những gì khi đăng kí vào trường",
+              "Trường còn mở đăng kí nhập học không ạ",
+              "Em cần tư vấn về đăng kí nhập học"],
+       "responses": [
+              "Để đăng ký vào trường, bạn cần thực hiện các bước sau..."]
+       },
+       {"tag": "scholarships",
+       "patterns": [
+              "Có học bổng nào tại đại học Duy Tân không?",
+              "Tôi muốn biết về học bổng",
+              "Làm thế nào để được học bổng?",
+              "ad ơi có những học bổng nào cho sinh viên mới ạ",
+              "cho em hỏi làm cách nào để tìm hiểu về các học bổng cụ thể tại trường",
+              "em muốn hỏi có thể nhận học bổng toàn phần không",
+              "ad ơi trường có bao mấy loại học bổng vậy ạ",
+              "ad ơi trường có hỗ trợ học bổng cho sinh viên khó khăn không",
+              "ad ơi trường có hỗ trợ học bổng cho sinh viên là đối tượng ưu tiên không"],
+       "responses": [
+              "Có nhiều loại học bổng tại đại học Duy Tân. Hãy tham khảo thông tin về học bổng trên trang web của trường."]
+       },
+       {"tag": "application_deadline",
+       "patterns": [
+              "Hạn chót nộp hồ sơ là khi nào?",
+              "Cần biết thời hạn nộp hồ sơ",
+              "Làm thế nào để biết hạn chót nộp hồ sơ?",
+              "ad cho e hỏi ngày cuối nộp hồ sơ là khi nào",
+              "trường còn mở đăng kí nộp hồ sơ không ạ",
+              "Em cần thông tin về thời hạn nộp hồ sơ đăng kí ạ",
+              "Ngày mấy là hết hạn nộp hồ sơ vậy ad"],
+       "responses": [
+              "Hạn chót nộp hồ sơ là ngày X. Đừng quên nộp đúng hạn để có cơ hội tham gia."]
+       },
+       {"tag": "admission_requirements",
+       "patterns": [
+              "Yêu cầu để nhập học là gì?",
+              "Tôi cần biết về điều kiện nhập học",
+              "Làm thế nào để đủ điều kiện để nhập học?",
+              "Khi nhập học em cần đem những giấy tờ gì vậy ad?",
+              "Hồ sơ nhập học trường mình cần những gì vậy ạ?",
+              "Hồ sơ đăng ký xét tuyển vào trường gồm những gì?",
+              "Đăng ký xét tuyển vào trường đại học Duy Tân như thế nào"],
+       "responses": [
+              "Để nhập học, bạn cần đáp ứng một số điều kiện như..."]
+       },
+       {"tag": "majors_offered",
+       "patterns": [
+              "Các học nào có tại đại học Duy Tân?",
+              "Tôi muốn biết về các học",
+              "Có những chuyên gì?",
+              "Ad có thể giới thiệu cho em về vài nổi bật của trường mình với ạ",
+              "Em muốn tìm hiểu về các học của trường mình ạ",
+              "Các trường mình đào tạo?",
+              "Em đang phân vân chọn học?",
+              "Trường mình có những nào vậy ạ?"],
+       "responses": [
+              "Đại học Duy Tân cung cấp nhiều ngành học khác nhau như..."]
+       },
+       {"tag": "contact_admissions",
+       "patterns": [
+              "Làm thế nào để liên hệ với phòng tuyển sinh?",
+              "Cách để nói chuyện với phòng tuyển sinh?",
+              "Cần sự hỗ trợ từ phòng tuyển sinh.",
+              "Phòng tuyển sinh trường mình ở cơ sở nào vậy ad?",
+              "Địa chỉ phòng tuyển sinh.",
+              "Phòng tuyển sinh trường mình nằm ở đâu ad?",
+              "Em có thắc mắc về vấn đề tuyển sinh thì làm sao để được giải đáp ạ?"],
+       "responses": [
+              "Bạn có thể liên hệ với phòng tuyển sinh qua số điện thoại 02363.650403 - 02363.653561 hay hotline 0905.294.390 - 0905.294.391 - 1900.2252hoặc email tuyensinh@duytan.edu.vn. Bạn cũng có thể đến tực tiếp địa chỉ 254 Nguyễn Văn Linh - TP Đà Nẵng."]
+       },
+       {"tag": "application_status",
+       "patterns": [
+              "Làm thế nào để kiểm tra tình trạng đơn xin học?",
+              "Tôi muốn biết về tình trạng đơn xin học",
+              "Cách để biết xem đơn xin học của tôi đã được xem xét chưa?",
+              "Khi em nộp hồ sơ đăng ký xét tuyển về Trường thì làm sao em biết được hồ sơ của mình đã được nhận chưa vậy?",
+              "Làm sao em có thể biết mình có trúng tuyển vào Trường hay không?",
+              "Làm sao để biết hồ sơ xin học của em được trường nhận chưa ạ?",
+              "Có cách nào để biết liệu đơn xin học của em được xác nhận hay chưa không ad?",
+              "Làm thế nào để theo dõi tiến trình đơn xin học của em vậy ad?",
+              "Hồ sơ đăng ký của em đã được trường nhận chưa?",
+              "Em có thể kiểm tra tình trạng đơn xin học của mình trực tuyến được không ạ?"],
+       "responses": [
+              "Bạn có thể kiểm tra tình trạng đơn xin học bằng cách...",
+              "Tình trạng đơn xin học sẽ được cập nhật trên trang web của trường."]
+       },
+       {"tag": "accommodation",
+       "patterns": [
+              "Có chỗ ở ký túc xá tại trường không?",
+              "Thông tin về ký túc xá",
+              "Làm thế nào để đăng ký ở ký túc xá?",
+              "Trường mình có ký túc xá không ad?",
+              "Em muốn ở ký túc xá trường thì đăng ký như nào ạ?",
+              "Vị trí ký túc xá.",
+              "Ký túc xá trường mình có thuận tiện không ad?",
+              "Chi phí ở ký túc xá.",
+              "Ở ký túc xá có mắc không ad?",
+              "Địa chỉ ký túc xá trường ở đâu vậy ad?",
+              "Mức giá của ký túc xá.",
+              "An ninh ký túc xá trường mình như thế nào vậy ad?",
+              "Ký túc xá tiện nghi ra sao?"],
+       "responses": [
+              "Có ký túc xá tại trường với nhiều loại phòng khác nhau. Để biết thông tin chi tiết và đăng ký, vui lòng liên hệ với phòng quản lý ký túc xá."]
+       },
+       {"tag": "admission_events",
+       "patterns": [
+              "Có sự kiện tuyển sinh nào sắp diễn ra không?",
+              "Lịch trình sự kiện tuyển sinh",
+              "Có chương trình tái ngộ tân sinh viên nào không?",
+              "Sự kiện tuyển sinh diễn ra khi nào vậy ad?",
+              "Năm nay trường mình tổ chức sự kiện tuyển sinh ở đâu ạ?",
+              "Hoạt động của tân sinh viên có gì hấp dẫn không ad?",
+              "Tân sinh viên đầu năm cần tham gia chương trình gì không ad?",
+              "Tân sinh viên buổi đầu tập trung ở đâu vậy ad?",
+              "Em muốn biết nơi tổ chức sự kiện dành cho tân sinh viên ạ.",
+              "Hội trường để gặp mặt tân sinh viên ở đâu ạ?",
+              "Thời gian diễn ra sự kiện chào đón tân sinh viên.",
+              "Làm thế nào để tham gia chương trình chào đón tân sinh viên vậy ad?"],
+       "responses": [
+              "Trường thường tổ chức các sự kiện tuyển sinh và chương trình tái ngộ tân sinh viên. Bạn có thể xem lịch trình trên trang web của trường hoặc theo dõi thông tin trên mạng xã hội của trường."]
+       },
+       {"tag": "financial_aid",
+       "patterns": [
+              "Làm thế nào để nhận hỗ trợ tài chính?",
+              "Thông tin về hỗ trợ tài chính",
+              "Có hỗ trợ học phí không?",
+              "Đối tượng được hỗ trợ tài chính của trường mình?",
+              "Điều kiện để được hỗ trợ tài chính cho sinh viên?",
+              "Hỗ trợ tài chính trường mình bao gồm những gì vậy ad?",
+              "Điều kiện để được nhận hỗ trợ tài chính?",
+              "Em muốn đăng ký hỗ trợ tài chính thì cần những gì ad?"],
+       "responses": [
+              "Trường cung cấp các gói hỗ trợ tài chính cho sinh viên có hoàn cảnh khó khăn. Để biết thông tin chi tiết và cách đăng ký, bạn nên liên hệ với phòng tài vụ của trường."]
+       },
+       {"tag": "student_activities",
+       "patterns": [
+              "Có hoạt động ngoại khóa cho sinh viên không?",
+              "Các hoạt động của sinh viên",
+              "Tôi muốn tham gia các câu lạc bộ và hoạt động khác.",
+              "Em muốn tham gia hoạt động ngoại khóa thì đi theo lớp hay tập thể nào ạ"],
+       "responses": [
+              "Có nhiều hoạt động ngoại khóa và câu lạc bộ dành cho sinh viên tại trường. Bạn có thể tham gia bằng cách liên hệ với ban tổ chức hoặc theo dõi thông tin trên trang web của trường."]
+       },
+       {"tag": "courses",
+       "patterns": [
+              "Có những khóa học nào được cung cấp tại trường?",
+              "Danh sách các môn học",
+              "Tôi muốn biết về chương trình học."],
+       "responses": [
+              "Trường cung cấp một loạt các khóa học và chương trình học đa dạng. Bạn có thể tìm hiểu thêm thông tin về các khóa học trên trang web của trường."]
+       },
+       {"tag": "international_students",
+       "patterns": [
+              "Có chương trình đón tiếp sinh viên quốc tế không?",
+              "Thông tin cho sinh viên quốc tế",
+              "Tôi là sinh viên quốc tế, cần biết thêm về thủ tục nhập học."],
+       "responses": [
+              "Trường chào đón sinh viên quốc tế và có chương trình đón tiếp đặc biệt cho họ. Để biết thông tin chi tiết và thủ tục nhập học, bạn nên liên hệ với phòng quản lý sinh viên quốc tế."]
+       },
+       {"tag": "library",
+       "patterns": [
+              "Thư viện trường có những tài liệu gì?",
+              "Dịch vụ của thư viện",
+              "Tôi muốn tìm hiểu về thư viện.",
+              "Cho em hỏi, em muốn mượn sách ở thư viện thì bằng cách nào",
+              "Em muốn lên thư viện của trường thì phải đóng tiền gì không ad",
+              "Trường mình có mấy thư viện vậy ad"],
+       "responses": [
+              "Thư viện của trường có một bộ sưu tập đa dạng về sách, tài liệu, và dịch vụ hỗ trợ học tập. Bạn có thể tìm hiểu thêm thông tin về thư viện trên trang web của trường."]
+       },
+       {"tag": "sports",
+       "patterns": [
+              "Có các hoạt động thể thao cho sinh viên không?",
+              "Các môn thể thao tại trường",
+              "Tôi muốn tham gia vào các hoạt động thể thao.",
+              "Trường mình có đội bóng nào không ạ",
+              "Cho em hỏi như mình đam mê đá bóng thì tham gia ở đâu",
+              "Trường hằng năm có hội thao gì không ad",
+              "Trường có giải bóng không ạ",
+              "trường có hay tổ chức giải game gì không ạ"],
+       "responses": [
+              "Trường có nhiều hoạt động thể thao và môn thể thao cho sinh viên tham gia. Bạn có thể tìm hiểu thêm thông tin từ phòng thể dục của trường."]
+       },
+       {"tag": "career_services",
+       "patterns": [
+              "Có dịch vụ hỗ trợ việc làm không?",
+              "Hỗ trợ nghề nghiệp tại trường",
+              "Tôi muốn biết về cơ hội việc làm sau khi tốt nghiệp.",
+              "ho em hỏi sau khi tốt nghiệp các công ty có về trường tuyển việc làm không ạ",
+              "Em có nguyện vọng ở lại trường thì cần điều kiện gì không",
+              "em muốn hỏi học xong trường sẽ giới thiệu công ty cho mình hay sao ạ"],
+       "responses": [
+              "Trường cung cấp dịch vụ hỗ trợ nghề nghiệp và cơ hội việc làm sau khi tốt nghiệp. Bạn có thể liên hệ với phòng hỗ trợ việc làm để biết thêm chi tiết."]
+       },
+       {"tag": "student_clubs",
+       "patterns": [
+              "Có các câu lạc bộ sinh viên không?",
+              "Danh sách câu lạc bộ",
+              "Tôi muốn tham gia vào câu lạc bộ sinh viên.",
+              "Em muốn nâng cao kỹ năng mềm thì nên tham gia clb nào ạ",
+              "em biết đàn thì không biết có thể tham gia clb nào",
+              "có clb esport không ad",
+              "Tham gia clb có bắt buộc hay cần điều kiện gì không ạ"],
+       "responses": [
+              "Có nhiều câu lạc bộ sinh viên với các sở thích và chủ đề đa dạng. Bạn có thể tham gia vào các câu lạc bộ này để kết nối và tham gia cùng các bạn sinh viên khác."]
+       },
+       {"tag": "campus_tours",
+       "patterns": [
+              "Có tổ chức tham quan trường không?",
+              "Lịch trình tham quan trường",
+              "Tôi muốn tham quan trường."],
+       "responses": ["Trường thường tổ chức các chương trình tham quan trường dành cho sinh viên và phụ huynh. Bạn có thể kiểm tra lịch trình tham quan trường trên trang web của trường."]
+       },
+       {"tag": "english_ability",
+       "patterns": [
+              "Trình tiếng Anh em khá yếu, có nên học khoa mình ko",
+              "Tiếng Anh em thấp điểm lắm sợ không học được",
+              "anh văn em tệ nên em không dám đăng ký",
+              "Tiếng Anh em kém lắm, em không biết nên học không",
+              "anh văn của em chưa tốt lắm em sợ không học được",
+              "Tiếng Anh mình kém lắm ad, học có được ko",
+              "Tiếng Anh của em kém thì không biết học được không ạ",
+              "Em sợ anh văn em yếu không học được thôi",
+              "ngoại ngữ của em còn dở, có học được không ạ",
+              "Huhu em sợ anh văn em yếu học không nổi",
+              "Khả năng tiếng Anh tệ có học khoa mình nổi không ad",
+              "ngoại ngữ em tệ lắm em sợ không học nổi á",
+              "Tiếng Anh dốt nên em không dám đăng ký ad ơi",
+              "ngoại ngữ em khá kém ko biết nên học không",
+              "anh văn còn chưa tốt lắm nên em sợ không học nổi",
+              "anh văn của em kém lắm ad ơi, học khoa mình được ko thế",
+              "ngoại ngữ em dở ko biết học được không",
+              "Em sợ anh văn em dở không học nổi á",
+              "anh văn em còn dở, học nổi ko á ad",
+              "Huhu ad ơi em sợ tiếng Anh dở thì học ko được á"],
+       "responses": [
+              "Tiếng anh yếu cũng hoàn toàn có thể theo học bạn nhé!"]
+       },
+       {"tag": "material basis",
+       "patterns": [
+              "Cơ sở vật chất đáp ứng tốt không",
+              "Cơ sở vật chất của khoa thế nào",
+              "cơ sở vật chất ntn",
+              "Cơ sở hạ tầng ad ơi",
+              "Ad ơi cơ sở hạ tầng thế nào",
+              "phòng ốc thực hành",
+              "phòng thí nghiệm",
+              "thiết bị nghiên cứu",
+              "Cơ sở vật chất có tốt không",
+              "Cơ sở vật chất của khoa tốt ko",
+              "cơ sở vật chất ntn vậy ạ",
+              "Cơ sở hạ tầng thì ra sao ad ơi",
+              "Ad ơi cơ sở hạ tầng tốt ko thế",
+              "phòng ốc thực hành thì sao ạ",
+              "phòng thí nghiệm có to ko",
+              "thiết bị nghiên cứu có ổn ko",
+              "Cơ sở vật chất còn tốt không vậy ad",
+              "Cơ sở vật chất của khoa ra sao ad ",
+              "cơ sở vật chất của khoa ntn admin",
+              "Cơ sở hạ tầng trong khoa ad ơi",
+              "Ad ơi cơ sở hạ tầng ra làm sao thế",
+              "phòng ốc thực hành thì như thế nào vậy",
+              "phòng thí nghiệm có đầy đủ ko",
+              "thiết bị nghiên cứu có đầy đủ ko ad"],
+       "responses": [
+              "Cơ sở vật chất rất đầy đủ bạn nhé, từ phòng ốc cho tới trang thiết bị học tập, nghiên cứu."]
+       },
+       {"tag": "tuition",
+       "patterns": [
+              "Dạ ad cho em hỏi học phí bao nhiêu ạ",
+              "hp",
+              "học phí",
+              "Tiền học",
+              "Học phí một năm",
+              "Cho em hỏi học phí một kì ạ",
+              "Dạ ad cho em hỏi học phí 1 kì ạ",
+              "Dạ ad cho em hỏi học phí 1 kỳ với ạ",
+              "Ad cho em hỏi học phí một kỳ là như thế nào ạ",
+              "Tiền học 1 kỳ bao nhiêu",
+              "Học phí phải nộp một năm",
+              "ad cho hỏi học phí bao nhiêu tiền",
+              "Tiền học là bao nhiêu",
+              "Học phí một năm là mấy",
+              "Cho em hỏi học phí 1 kì là mấy",
+              "Dạ ad cho hỏi học phí 1 kỳ với",
+              "Dạ ad cho hỏi học phí một năm với ạ",
+              "Ad cho em hỏi tiền học một kỳ là bao tiền ạ",
+              "Tiền học 1 kỳ mấy tiền vậy",
+              "Học phí phải nộp một năm là bao nhiêu thế",
+              "Dạ ad cho hỏi học phí mấy tiền vậy ạ",
+              "Tiền học của khoa là mấy",
+              "Học phí một năm là bao nhiêu thế",
+              "Cho em hỏi về học phí của một kì",
+              "Dạ ad cho hỏi học phí 1 kì cần đóng ạ",
+              "Dạ ad cho em hỏi học phí 1 năm cần đóng với ạ"],
+       "responses": [
+              "Mức học phí cho ngành {} là {} triệu đồng/1 sv/1 học kỳ, 1 năm 2 kì bạn nhé!"]
+       },
+       {"tag": "std_point",
+       "patterns": [
+              "Cho em hỏi điểm chuẩn",
+              "Điểm đầu vào như thế nào ạ",
+              "Tôi muốn biết về điểm chuẩn để nhập học"],
+       "responses": [
+              "Điểm chuẩn của ngành {} là {}"]
+       },
+       {"tag": "general_introduction",
+       "patterns": [
+              "Cho em hỏi thông tin chung về",
+              "Giới thiệu chung về",
+              "Tôi muốn biết về",
+              "Em muốn biết nhiều hơn về",
+              "Có gì đặc biệt về",
+              "Tôi muốn tìm hiểu thêm về",
+              "Cho em thông tin tổng quan về",
+              "Giới thiệu một chút về",
+              "Em muốn biết nhiều hơn về",
+              "Ad review cho em về",
+              "Tôi thực sự quan tâm đến",
+              "Có thông tin gì liên quan đến",
+              "Mình cần hiểu rõ hơn về"],
+       "responses": [
+              "Thông tin về {}: {}"]
+       },
+       {"tag": "combination_major",
+       "patterns": [
+              "Cho em hỏi tổ hợp xét tuyển",
+              "Tổ hợp xét tuyển như thế nào ạ",
+              "Tôi muốn biết về tổ hợp xét tuyển để nhập học"],
+       "responses": [
+              "Tổ hợp xét tuyển của ngành {} là {}"]
+       },
+       {"tag": "job",
+       "patterns": [
+              "Ad ơi tỉ lệ có việc làm tốt nghiệp cao không",
+              "cho hỏi kiếm việc làm ở đâu ạ",
+              "làm sao để có việc làm sau này ạ",
+              "có cách nào để kiếm việc làm không ạ",
+              "việc làm này thao tác như thế nào ạ",
+              "khi nào có thể đi xin việc làm được ạ",
+              "khả năng tìm kiếm việc làm cao không ạ",
+              "tần suất kiếm việc làm có nhiều không ạ",
+              "Ad ơi có việc làm tốt nghiệp dễ không",
+              "cho hỏi em kiếm việc làm ở đâu",
+              "làm sao có việc làm sau này vậy ạ",
+              "có cách nào kiếm việc làm sau này không ạ",
+              "việc làm này kiếm như thế nào ạ",
+              "khi nào thì đi xin việc làm được ạ",
+              "khả năng có việc làm cao không ạ ad",
+              "tần suất có việc làm có nhiều không ạ",
+              "Ad ơi tỉ lệ có việc sau khi tốt nghiệp cao không",
+              "cho hỏi sau này kiếm việc làm ở đâu ạ",
+              "làm sao có việc làm sau này thế ạ",
+              "có cách nào dễ kiếm việc không ạ",
+              "việc làm này mình kiếm như thế nào ạ",
+              "khi nào có thể xin việc được thế ạ",
+              "khả năng kiếm được việc làm có cao không ạ",
+              "tần suất kiếm được việc làm có nhiều ko ạ"],
+       "responses": [
+              "Hiện tại trường đang liên kết làm việc với rất nhiều công ty nói chung. Các bạn đều có thể có tìm được công việc ở các công ty phù hợp với bản thân và năng lực nhé"]
+       }
+   ]
+}

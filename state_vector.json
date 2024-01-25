@@ -1,0 +1,552 @@
+{"state_vector":[
+       {"tag": "Trường Duy Tân",
+       "patterns": [
+              "DTU",
+              "Trường Duy Tân",
+              "Đại học Duy Tân",
+              "ĐH Duy Tân",
+              "Duy Tan University"]
+       },
+       {"tag": "Bigdata & Machinelearning",
+       "patterns": [
+              "bigdata machinelearning",
+              "big data machine learning",
+              "bigdata machine learning",
+              "big data machinelearning",
+              "bigdata ml",
+              "big data ml"]
+       },
+       {"tag": "Trí Tuệ Nhân Tạo",
+       "patterns": [
+              "Trí tuệ nhân tạo",
+              "AI",
+              "Artificial Intelligence"]
+       },
+       {"tag": "Công Nghệ Phần Mềm",
+       "patterns": [
+              "CNPM",
+              "Công nghệ phần mềm",
+              "CN phần mềm",
+              "Phần mềm",
+              "Software Technology",
+              "Software"]
+       },
+       {"tag": "Khoa Học Máy Tính",
+       "patterns": [
+              "KHMT",
+              "Khoa học máy tính",
+              "Khoa học MT",
+              "KH máy tính",
+              "Computer Science"]
+       },
+       {"tag": "Khoa Học Dữ Liệu",
+       "patterns": [
+              "khdl",
+              "Khoa học dữ liệu",
+              "Khoa học DL",
+              "KH dữ liệu",
+              "Data Science"]
+},
+       {"tag": "Mạng Máy Tính & Truyền Thông Dữ Liệu",
+       "patterns": [
+              "mmt",
+              "Mạng máy tính truyền thông dữ liệu",
+              "Mạng máy tính truyền thông DL",
+              "Mạng mt truyền thông dữ liệu",
+              "Mạng mt truyền thông DL",
+              "Mạng mt",
+              "Mạng máy tính",
+              "Computer Network"]
+       },
+       {"tag": "An Toàn Thông Tin",
+       "patterns": [
+              "Attt",
+              "An toàn tt",
+              "An toàn thông tin"]
+       },
+       {"tag": "Kỹ Thuật Mạng",
+       "patterns": [
+              "ktm",
+              "Kỹ thuật mạng",
+              "KT mạng"]
+       },
+       {"tag": "Thiết Kế Games",
+       "patterns": [
+              "Thiết kế games",
+              "TK games",
+              "Design games",
+              "Design game",
+              "Games design",
+              "Game design"]
+       },
+       {"tag": "Trường Khoa Học Máy Tính",
+       "patterns": [
+              "trường KHMT",
+              "trường Khoa học máy tính",
+              "trường Khoa học MT",
+              "trường KH máy tính",
+              "trường Computer Science"]
+      },
+      {"tag": "Kiểm Toán",
+       "patterns": [
+              "kiểm toán"]
+      },
+      {"tag": "Kế Toán Doanh Nghiệp",
+       "patterns": [
+              "kế toán doanh nghiệp",
+              "kt doanh nghiệp",
+              "kế toán dn"]
+      },
+      {"tag": "Kế Toán Nhà Nước",
+       "patterns": [
+              "kế toán nhà nước",
+              "KT nhà nước"]
+       },
+       {"tag": "Kế Toán Quản Trị",
+       "patterns": [
+              "kế toán quản trị",
+              "kt quản trị"]
+       },
+       {"tag": "Digital Marketing",
+       "patterns": [
+              "digital marketing"]
+       },  
+       {"tag": "Thương Mại Điện Tử",
+       "patterns": [
+              "thương mại điện tử",
+              "thương mại đt",
+              "tm điện tử",
+              "tmdt"]
+       },  
+       {"tag": "Quản Trị Kinh Doanh Marketing",
+       "patterns": [
+              "quản trị kinh doanh marketing",
+              "quản trị kd marketing",
+              "qtkd marketing"]
+       },
+       {"tag": "Ngân Hàng",
+       "patterns": [
+              "bank",
+              "ngân hàng"]
+       },
+       {"tag": "Quản Trị Kinh Doanh Tổng Hợp",
+       "patterns": [
+              "Quản Trị Kinh Doanh Tổng Hợp",
+              "Quản trị kd tổng hợp",
+              "Qtkd tổng hợp",
+              "qtkdth"]
+       },
+       {"tag": "Đầu Tư Tài Chính",
+       "patterns": [
+              "đầu tư tài chính",
+              "dttc",
+              "đầu tư tc"]
+       },
+       {"tag": "Kinh Doanh Thương Mại",
+       "patterns": [
+              "kinh doanh thương mại",
+              "kd thương mại",
+              "kdtm",
+              "kinh doanh tm"]
+       },
+       {"tag": "Tài Chính Doanh Nghiệp",
+       "patterns": [
+              "tài chính doanh nghiệp",
+              "tcdn",
+              "tc doanh nghiệp",
+              "tài chính dn"]
+       },
+       {"tag": "Quản Trị Nhân Lực",
+       "patterns": [
+              "quản trị nhân lực",
+              "qt nhân lực"]
+       },
+       {"tag": "Quản Trị Kinh Doanh Bất Động Sản",
+       "patterns": [
+              "quản trị kinh doanh bất động sản",
+              "qtkd bds",
+              "qtkd bất động sản",
+              "quản trị kd bds",
+              "quản trị kd bất động sản"]
+       },
+       {"tag": "Quản Trị Kinh Doanh Quốc Tế",
+       "patterns": [
+              "Quản Trị Kinh Doanh Quốc Tế",
+              "Quản trị kinh doanh qt",
+              "qtkd quốc tế",
+              "qtkdqt",
+              "quản trị kd quốc tế"]
+       },
+       {"tag": "Trường Kinh Tế",
+       "patterns": [
+              "Trường kinh tế",
+              "Trường kt"]
+       },
+       {"tag": "Điện Tự Động",
+       "patterns": [
+              "Điện tự động",
+              "Điện tđ"]
+       },
+       {"tag": "Điện Tử - Viễn Thông",
+       "patterns": [
+              "Điện Tử Viễn Thông",
+              "đt viễn thông"]
+       },
+       {"tag": "Điện - Điện Tử Chuẩn PNU",
+       "patterns": [
+              "Điện Điện Tử PNU",
+              "Điện đt PNU"]
+       },
+       {"tag": "Công Nghệ Kỹ Thuật Ô Tô",
+       "patterns": [
+              "Công Nghệ Kỹ Thuật Ô Tô",
+              "Công nghệ kt ô tô",
+              "cn kỹ thuật ô tô",
+              "cnkt ô tô"]
+       },
+       {"tag": "Điện Cơ Ô Tô",
+       "patterns": [
+              "Điện Cơ Ô Tô"]
+       },
+       {"tag": "Kỹ Thuật Điều Khiển Và Tự Động Hóa",
+       "patterns": [
+              "Kỹ Thuật Điều Khiển Và Tự Động Hóa",
+              "Kỹ thuật đk và tự động hoá",
+              "kt điều khiển và tự động hoá"]
+       },
+       {"tag": "Kỹ Thuật Điện",
+       "patterns": [
+              "Kỹ Thuật Điện",
+              "Kt điện"]
+       },
+       {"tag": "Cơ Điện Tử Chuẩn PNU",
+       "patterns": [
+              "Cơ Điện Tử PNU",
+              "Cơ đt PNU"]
+       },
+       {"tag": "Thiết Kế Đồ Họa",
+       "patterns": [
+              "Thiết Kế Đồ Họa",
+              "Tk Đồ Họa"]
+       },
+       {"tag": "Thiết Kế Thời Trang",
+       "patterns": [
+              "Thiết Kế Thời Trang",
+              "Tk Thời Trang"]
+       },
+       {"tag": "Kiến Trúc Công Trình",
+       "patterns": [
+              "Kiến Trúc Công Trình",
+              "Kt Công Trình"]
+       },
+       {"tag": "Kiến Trúc Nội Thất",
+       "patterns": [
+              "Kiến Trúc Nội Thất",
+              "Kt Nội Thất"]
+       },
+       {"tag": "Xây Dựng Dân Dụng Và Công Nghiệp",
+       "patterns": [
+              "Xây Dựng Dân Dụng Và Công Nghiệp",
+              "Xd Dân Dụng Và Công Nghiệp",
+              "Xd Dân Dụng Và cn",
+              "Xây Dựng Dân Dụng Và cn"]
+       },
+       {"tag": "Công Nghệ Quản Lý Xây Dựng",
+       "patterns": [
+              "Công Nghệ Quản Lý Xây Dựng",
+              "Cn quản lý xây dựng",
+              "Công nghệ ql xây dựng",
+              "Công nghệ quản lý xd",
+              "Công nghệ qlxd",
+              "Cn quản lý xd",
+              "Cn ql xây dựng"]
+       },
+       {"tag": "Quản Lý Và Vận Hành Tòa Nhà",
+       "patterns": [
+              "Quản Lý Và Vận Hành Tòa Nhà",
+              "Ql và vận hành toà nhà"]
+       },
+       {"tag": "Xây Dựng Cầu Đường",
+       "patterns": [
+              "Xây Dựng Cầu Đường",
+              "Xd cầu đường"]
+       },
+       {"tag": "Quản Lý Tài Nguyên Và Môi Trường",
+       "patterns": [
+              "Quản Lý Tài Nguyên Và Môi Trường",
+              "Ql Tài Nguyên Và Môi Trường",
+              "Quản Lý Tn Và Môi Trường",
+              "Quản Lý Tài Nguyên Và mt",
+              "Quản Lý tn Và mt",
+              "Ql tài nguyên và môi trường",
+              "Ql tài nguyên và mt"]
+       },
+       {"tag": "Quản Lý Tài Nguyên Du Lịch",
+       "patterns": [
+              "Quản Lý Tài Nguyên Du Lịch",
+              "Ql Tài Nguyên Du Lịch",
+              "Quản Lý Tn Du Lịch",
+              "Quản Lý Tài Nguyên dl",
+              "Quản Lý tn dl",
+              "Ql tài nguyên Du Lịch",
+              "Ql tài nguyên dl"]
+       },
+       {"tag": "Công Nghệ Thực Phẩm",
+       "patterns": [
+              "Công Nghệ Thực Phẩm",
+              "Cn thực phẩm",
+              "Công nghệ tp",
+              "cntp"]
+       },
+       {"tag": "Công Nghệ Kỹ Thuật Môi Trường",
+       "patterns": [
+              "Công Nghệ Kỹ Thuật Môi Trường",
+              "Cn Kỹ Thuật Môi Trường",
+              "Công nghệ kt môi trường",
+              "Công nghệ kỹ thuật mt",
+              "Cn kỹ thuật mt",
+              "Cn kt môi trường",
+              "Công nghệ kt mt"]
+       },
+       {"tag": "Công Nghệ Chế Tạo Máy",
+       "patterns": [
+              "Công Nghệ Chế Tạo Máy",
+              "Cn Chế Tạo Máy"]
+       },
+       {"tag": "Quản Trị Du Lịch & Khách Sạn",
+       "patterns": [
+              "Quản Trị Du Lịch Khách Sạn",
+              "Quản trị dl khách sạn",
+              "Quản trị du lịch ks",
+              "Quản trị dl ks"]
+       },
+       {"tag": "Quản Trị Khách Sạn Quốc Tế Chuẩn PSU",
+       "patterns": [
+              "Quản Trị Khách Sạn Quốc Tế PSU",
+              "Quản trị ks quốc tế psu",
+              "Quản trị khách sạn qt PSU"]
+       },
+       {"tag": "Quản Trị Du Lịch & Lữ Hành",
+       "patterns": [
+              "Quản Trị Du Lịch Lữ Hành",
+              "Quản trị dl lữ hành"]
+       },
+       {"tag": "Quản Trị Du Lịch & Lữ Hành Chuẩn PSU",
+       "patterns": [
+              "Quản Trị Du Lịch Lữ Hành PSU",
+              "Quản Trị Dl Lữ Hành PSU"]
+       },
+       {"tag": "Hướng Dẫn Du Lịch Quốc Tế (Tiếng Anh)",
+       "patterns": [
+              "Hướng Dẫn Du Lịch Quốc Tế (Tiếng Anh)",
+              "Hướng Dẫn Dl Quốc Tế (Tiếng Anh)",
+              "Hướng Dẫn Du Lịch qt (Tiếng Anh)"]
+       },
+       {"tag": "Hướng Dẫn Du Lịch Quốc Tế (Tiếng Hàn)",
+       "patterns": [
+              "Hướng Dẫn Du Lịch Quốc Tế (Tiếng Hàn)",
+              "Hướng Dẫn Dl Quốc Tế (Tiếng Hàn)",
+              "Hướng Dẫn Du Lịch qt (Tiếng Hàn)"]
+       },
+       {"tag": "Hướng Dẫn Du Lịch Quốc Tế (Tiếng Trung)",
+       "patterns": [
+              "Hướng Dẫn Du Lịch Quốc Tế (Tiếng Trung)",
+              "Hướng Dẫn Dl Quốc Tế (Tiếng Trung)",
+              "Hướng Dẫn Du Lịch qt (Tiếng Trung)"]
+       },
+       {"tag": "Quản Trị Du Lịch & Dịch Vụ Hàng Không",
+       "patterns": [
+              "Quản Trị Du Lịch Dịch Vụ Hàng Không",
+              "Quản Trị Dl Dịch Vụ Hàng Không",
+              "Quản Trị Du Lịch dv Hàng Không",
+              "Quản Trị dl dv Hàng Không"]
+       },
+       {"tag": "Quản Trị Nhà Hàng Quốc Tế Chuẩn PSU",
+       "patterns": [
+              "Quản Trị Nhà Hàng Quốc Tế Chuẩn PSU",
+              "Quản Trị nh Quốc Tế Chuẩn PSU",
+              "Quản Trị Nhà Hàng qt Chuẩn PSU",
+              "Quản Trị nh qt Chuẩn PSU"]
+       },
+       {"tag": "Smart Tourism (Du Lịch Thông Minh)",
+       "patterns": [
+              "Smart Tourism",
+              "Du Lịch Thông Minh",
+              "Dl Thông Minh"]
+       },
+       {"tag": "Văn Hóa Du Lịch",
+       "patterns": [
+              "Văn Hóa Du Lịch",
+              "Vh du lịch",
+              "Văn Hóa dl"]
+       },
+       {"tag": "Quản Trị Sự Kiện & Giải Trí",
+       "patterns": [
+              "Quản Trị Sự Kiện Giải Trí",
+              "Quản Trị sk Giải Trí"]
+       },
+       {"tag": "Tiếng Anh Biên - Phiên Dịch",
+       "patterns": [
+              "Tiếng Anh Biên Phiên Dịch",
+              "Ta Biên Phiên Dịch"]
+       },
+       {"tag": "Tiếng Anh Du Lịch",
+       "patterns": [
+              "Tiếng Anh Du Lịch",
+              "Ta Du Lịch",
+              "Tiếng Anh dl"]
+       },
+       {"tag": "Tiếng Anh Thương Mại",
+       "patterns": [
+              "Tiếng Anh Thương Mại",
+              "Ta Thương Mại",
+              "Tiếng Anh tm"]
+       },
+       {"tag": "Tiếng Anh (HP)",
+       "patterns": [
+              "Tiếng Anh"]
+       },
+       {"tag": "Tiếng Trung Biên - Phiên Dịch",
+       "patterns": [
+              "Tiếng Trung Biên Phiên Dịch"]
+       },
+       {"tag": "Tiếng Trung Du Dịch",
+       "patterns": [
+              "Tiếng Trung Du Dịch",
+              "Tiếng Trung Dl"]
+       },
+       {"tag": "Tiếng Trung Thương Mại",
+       "patterns": [
+              "Tiếng Trung Thương Mại",
+              "Tiếng Trung Tm"]
+       },
+       {"tag": "Tiếng Trung (HP)",
+       "patterns": [
+              "Tiếng Trung"]
+       },
+       {"tag": "Tiếng Hàn Biên - Phiên Dịch",
+       "patterns": [
+              "Tiếng Hàn Biên Phiên Dịch"]
+       },
+       {"tag": "Tiếng Hàn Du Lịch",
+       "patterns": [
+              "Tiếng Hàn Du Lịch",
+              "Tiếng Hàn Dl"]
+       },
+       {"tag": "Tiếng Hàn Thương Mại",
+       "patterns": [
+              "Tiếng Hàn Thương Mại",
+              "Tiếng Hàn tm"]
+       },
+       {"tag": "Tiếng Hàn (HP)",
+       "patterns": [
+              "Tiếng Hàn"]
+       },
+       {"tag": "Tiếng Nhật Biên - Phiên Dịch",
+       "patterns": [
+              "Tiếng Nhật Biên Phiên Dịch"]
+       },
+       {"tag": "Tiếng Nhật Du Lịch",
+       "patterns": [
+              "Tiếng Nhật Du Lịch",
+              "Tiếng Nhật Dl"]
+       },
+       {"tag": "Tiếng Nhật Thương Mại",
+       "patterns": [
+              "Tiếng Nhật Thương Mại",
+              "Tiếng Nhật tm"]
+       },
+       {"tag": "Tiếng Nhật (HP)",
+       "patterns": [
+              "Tiếng Nhật"]
+       },
+       {"tag": "Tiếng Nhật (HP)",
+       "patterns": [
+              "Tiếng Nhật"]
+       },
+       {"tag": "Văn - Báo Chí",
+       "patterns": [
+              "Văn Báo Chí"]
+       },
+       {"tag": "Việt Nam Học",
+       "patterns": [
+              "Việt Nam Học"]
+       },
+       {"tag": "Truyền Thông Đa Phương Tiện",
+       "patterns": [
+              "Truyền Thông Đa Phương Tiện"]
+       },
+       {"tag": "Quan Hệ Quốc Tế (Chương Trình Tiếng Anh)",
+       "patterns": [
+              "Quan Hệ Quốc Tế Chương Trình Tiếng Anh"]
+       },
+       {"tag": "Quan Hệ Quốc Tế (Chương Trình Tiếng Nhật)",
+       "patterns": [
+              "Quan Hệ Quốc Tế Chương Trình Tiếng Nhật"]
+       },
+       {"tag": "Quan Hệ Quốc Tế (Chương Trình Tiếng Trung)",
+       "patterns": [
+              "Quan Hệ Quốc Tế Chương Trình Tiếng Trung"]
+       },
+       {"tag": "Quan Hệ Kinh Tế Quốc Tế",
+       "patterns": [
+              "Quan Hệ Kinh Tế Quốc Tế",
+              "Quan Hệ Kt Quốc Tế",
+              "Quan Hệ Kinh Tế qt"]
+       },
+       {"tag": "Quan Hệ Quốc Tế (HP)",
+       "patterns": [
+              "Quan Hệ Quốc Tế"]
+       },
+       {"tag": "Quan Hệ Công Chúng",
+       "patterns": [
+              "Quan Hệ Công Chúng"]
+       },
+       {"tag": "Luật Kinh Tế",
+       "patterns": [
+              "Luật Kinh Tế",
+              "Luật Kt"]
+       },
+       {"tag": "Luật Kinh Doanh (HP)",
+       "patterns": [
+              "Luật Kinh Doanh",
+              "Luật Kd"]
+       },
+       {"tag": "Luật Học",
+       "patterns": [
+              "Luật Học"]
+       },
+       {"tag": "Dược Sĩ (Đại Học)",
+       "patterns": [
+              "Dược Sĩ"]
+       },
+       {"tag": "Điều Dưỡng Đa Khoa",
+       "patterns": [
+              "Điều Dưỡng Đa Khoa"]
+       },
+       {"tag": "Bác Sĩ Đa Khoa",
+       "patterns": [
+              "Bác Sĩ Đa Khoa",
+              "Bs Đa Khoa"]
+       },
+       {"tag": "Bác Sĩ Răng - Hàm - Mặt",
+       "patterns": [
+              "Bác Sĩ Răng Hàm Mặt",
+              "Ba Răng - Hàm - Mặt"]
+       },
+       {"tag": "Công Nghệ Sinh Học",
+       "patterns": [
+              "Công Nghệ Sinh Học",
+              "Cn Sinh Học"]
+       },
+       {"tag": "Kỹ Thuật Y Sinh",
+       "patterns": [
+              "Kỹ Thuật Y Sinh",
+              "Kt Y Sinh"]
+       }
+   ]
+}
+
+     
+     
+     
